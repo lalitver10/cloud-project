@@ -17,6 +17,8 @@ python3 ./BES.py
 pyhton3 ./hills.py
 python3 ./hbo.py
 
-3. Collect the Output and run graph_plot.py
+3. Collect the Output and RUN graph ploting script
+
+python3 ./graph_plot.py
 
 
