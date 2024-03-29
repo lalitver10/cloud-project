@@ -2,6 +2,7 @@ Run all python script for different values of number of fog nodes
 
 
 
+1. About Algorithm
 
 #BES(Bald Easgle Search)===> It is one of the meta heuristic based algorithm which we are using here for load balancing in fog nodes
 
@@ -10,11 +11,12 @@ hiils(Hill Climbing)===> It is one of the Heuritic Based Algorithm which we have
 hbo(Honey Bee Optimization) It is also one of the meta heuristic based algorithm which we have taken here for analysis purpose
 
 
-OPEN THE TERMINAL AND RUN
+2. OPEN THE TERMINAL AND RUN
 
 python3 ./BES.py
 pyhton3 ./hills.py
 python3 ./hbo.py
 
+3. Collect the Output and run graph_plot.py
 
 
